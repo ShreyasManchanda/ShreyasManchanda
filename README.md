@@ -35,7 +35,7 @@ Built a hierarchical multi-agent system using LangChain + LangGraph + CrewAI —
 
 | Project | What it does | Stack | Key Result |
 |---|---|---|---|
-| [**CMPT***](https://github.com/ShreyasManchanda/CMPT) | AI competitive pricing intelligence — crawls stores, resolves ambiguous market signals with CrewAI agents | CrewAI · Gemini · FastAPI | Production-ready pricing engine |
+| [**CMPT***](https://github.com/ShreyasManchanda/CMPTR) | AI competitive pricing intelligence — crawls stores, resolves ambiguous market signals with CrewAI agents | CrewAI · Gemini · FastAPI | Production-ready pricing engine |
 | [**TAG**](https://github.com/ShreyasManchanda/TAG) | Image captioning API with fine-tuned PyTorch model + Gemini | PyTorch · Gemini · Flask | 27% faster inference vs baseline |
 | [**Dumb It Down**](https://github.com/ShreyasManchanda/DumbItDown) | RAG pipeline that converts dense academic text into student-friendly summaries | FAISS · LangChain · Gemini | 40% comprehension improvement (n=30) |
 
