@@ -16,11 +16,11 @@
 
 ## What I build
 
-I'm a 3rd year CSE student at **SRM Institute of Science and Technology** (CGPA 9.36/10) who ships AI systems end-to-end — from agent orchestration and RAG pipelines to production REST APIs.
+I'm a 4th year CSE student at **SRM Institute of Science and Technology** (CGPA 9.39/10) who ships AI systems end-to-end — from agent orchestration and RAG pipelines to production REST APIs.
 
 My focus is **agentic AI**: multi-agent systems where LLMs collaborate, plan, and execute tasks autonomously. I've deployed 10+ autonomous agents in production at RMgX Technologies, cutting pipeline latency by 25%.
 
-Currently hunting for **AI/ML internships (Summer 2026)** — remote or Delhi NCR.
+Currently interning at RMgX Technologies again.
 
 ---
 
